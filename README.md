@@ -38,5 +38,3 @@
 
     <h4>Game development</h4>
     <h5>Unity, Unreal</h5>
-  </li>
-</ul>
