@@ -7,3 +7,16 @@
   <li>Moreover, I possess a deep understanding of 🎯blockchain technology and 🎯smart contracts, enabling me to develop decentralized applications (🎯DApps) with secure and transparent transaction mechanisms.</li>
   <li>Finally, I bring expertise in the development of immersive 🎯2D/3D games which engines and graphics libraries to create captivating and interactive gaming experiences across various platforms.</li>
 </ul>
+
+<h3>My expertise is in</h3>
+<ul>
+  <li>
+    <h4>Web development</h4>
+    <h5>JavaScript, Typescript, Python, PHP</h5>
+    <ul>
+      <li>
+        <b>Front-end:</b> React/Next.js, Vue/Nuxt.js, Svelte
+      </li>
+    </ul>
+  </li>
+</ul>
