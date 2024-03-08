@@ -22,19 +22,27 @@
       </li>
     </ul>
   </li>
-</ul>
 
+<li>
     <h4>Mobile development</h4>
     <h5>Swift, Flutter, Kotlin, React Native</h5>
+</li>
 
+<li>
     <h4>AI development</h4>
     <h5>C++/C#, Python</h5>
     <h5>OpenCV, TensorFlow, PyTorch</h5>
+</li>
 
+<li>
     <h4>Blockchain / SMART CONTRACT development</h4>
     <h5>Solidity, Rust</h5>
     <h5>OpenZeppelin, Sol</h5>
     <h5>NFT minting/Marketplace/Staking, ICO, DEX, DeFi</h5>
+</li>
 
+<li>
     <h4>Game development</h4>
     <h5>Unity, Unreal</h5>
+</li>
+</ul>
