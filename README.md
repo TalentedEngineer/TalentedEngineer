@@ -15,8 +15,26 @@
     <h5>JavaScript, Typescript, Python, PHP</h5>
     <ul>
       <li>
-        <b>Front-end:</b> React/Next.js, Vue/Nuxt.js, Svelte
+        <b>Front-end:</b> React/Next.js, Vue/Nuxt.js, Svelte, TailWind, Material UI, HTML5, CSS 3, Sass/Scss
+      </li>
+      <li>
+        <b>Back-end:</b> Express/Nest/Node.js, Djanogo, Laravel
       </li>
     </ul>
+
+    <h4>Mobile development</h4>
+    <h5>Swift, Flutter, Kotlin, React Native</h5>
+
+    <h4>AI development</h4>
+    <h5>C++/C#, Python</h5>
+    <h5>OpenCV, TensorFlow, PyTorch</h5>
+
+    <h4>Blockchain / SMART CONTRACT development</h4>
+    <h5>Solidity, Rust</h5>
+    <h5>OpenZeppelin, Sol</h5>
+    <h5>NFT minting/Marketplace/Staking, ICO, DEX, DeFi</h5>
+
+    <h4>Game development</h4>
+    <h5>Unity, Unreal</h5>
   </li>
 </ul>
