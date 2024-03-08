@@ -21,6 +21,8 @@
         <b>Back-end:</b> Express/Nest/Node.js, Djanogo, Laravel
       </li>
     </ul>
+  </li>
+</ul>
 
     <h4>Mobile development</h4>
     <h5>Swift, Flutter, Kotlin, React Native</h5>
