@@ -1,5 +1,11 @@
 <h1>Hello 😊</h1>
 <h2>Thanks for your attentio to me 👍</h2>
+<div>
+  <h3>
+    <span>Please enjoy to visit my </span>
+    <a href="https://TalentedEngineer.github.io" style="color:#f36a5a;">Portfolio</a>
+  </h3>
+</div>
 <ul>
   <li>As a 🏆seasoned software developer with 🥇8+ years experience in development, I excel in the development of 🎯full-stack web applications, leveraging my expertise in both 🎯frontend and 🎯backend technologies to create dynamic and responsive user experiences.</li>
   <li>Additionally, I specialize in integrating artificial intelligence (🎯AI) capabilities into applications, harnessing machine learning (🎯ML) and natural language processing (🎯NLP) to enhance functionality and user engagement.</li>
